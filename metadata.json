@@ -1,0 +1,6 @@
+{
+  "name": "ReSell — Premium Peer-to-Peer Second-Hand Marketplace",
+  "description": "Discover, buy, and sell verified pre-owned products. Give quality items a second life with trusted seller verification, price negotiations, and secure checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
